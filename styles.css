@@ -1,1 +1,29 @@
 /* Write your CSS here! */
+
+body {
+    background-image: url(https://assets.simpleviewinc.com/simpleview/image/upload/c_limit,h_1500,q_75,w_1500/v1/clients/visitflorida/pensacola_beach_aerial_credit_bill_strength_cvb_image_mclaren_family_080313_jpg_1200_630_66c20441-c2ef-4a23-b26d-a66270c897b3.rendition.jpg);
+    padding: 0 10vw;
+    margin: 10px;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+#mainHeading {
+    color: red;
+}
+#golf {
+    background-color: lightblue;
+}
+.funParagraph {
+    color: green;
+}
+
+header {
+    background-color: white;
+}
+footer {
+    background-color: white;
+}
+main {
+ background-color: white;
+}
