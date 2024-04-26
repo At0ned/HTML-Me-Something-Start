@@ -8,6 +8,15 @@ body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     
 }
+#joke {
+    text-align: center;
+}
+.title {
+    text-align: center;
+}
+.images {
+   text-align: center;
+}
 #mainHeading {
     color: red;
 }
